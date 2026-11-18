@@ -1,0 +1,6 @@
+{
+  "name": "ChefNevera",
+  "description": "Escanea tu refrigerador con la cámara para detectar ingredientes y recibir sugerencias de recetas personalizadas con IA.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
